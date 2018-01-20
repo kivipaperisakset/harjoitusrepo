@@ -1,2 +1,2 @@
 # harjoitusrepo
-gitin testausta
+git-testi
